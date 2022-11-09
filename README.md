@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Sthembiso Mkansi
+- 👀 I’m interested in Data Analysis, BA and Fullstack Development
+- 🌱 I’m currently learning System Development
+- 💞️ I’m looking to collaborate on any project of analytical, professional and development.
+- 📫 How to reach me mkansi.sthembiso@gmail.com or go through my LinkedIn profile 
+
+<!---
+SthembisoMkansi/SthembisoMkansi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
