@@ -50,7 +50,7 @@ I'm a **self-driven, resourceful technologist** with **7+ years of IT experience
 
 | Platform | Link |
 |----------|------|
-| **Live Portfolio** | [View Website](https://sthembisomkansi.github.io/sthembiso-portfolio/) |
+| **Live Portfolio** | [View Website](https://sthembisomkansi.github.io/SM-Portfolio.io/) |
 | **LinkedIn** | [Connect with me](https://www.linkedin.com/in/sthembiso-mkansi) |
 | **GitHub** | [Follow my work](https://github.com/SthembisoMkansi) |
 | **Email** | [mkansi.sthembiso@gmail.com](mailto:mkansi.sthembiso@gmail.com) |
