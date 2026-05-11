@@ -28,23 +28,45 @@ I'm a **self-driven, resourceful technologist** with **7+ years of IT experience
 - 🌍 Based in Johannesburg, open to global opportunities
 
 ## 🛠️ Tech Stack
+### 📊 Business & Test Analyst
+| Category | Tools & Technologies |
+|----------|---------------------|
+| **Requirements & Documentation** | Jira, Confluence, MS Visio, Figma, Lucidchart, SharePoint |
+| **Testing & QA** | Selenium, UAT, SIT, Batch Testing, Defect Tracking, Test Case Management |
+| **Methodologies** | Agile (Scrum/Kanban), Waterfall, BPMN, UML, SDLC, ITIL |
+| **Business Analysis** | Gap Analysis, Feasibility Studies, Requirements Elicitation, Process Mapping (As-Is/To-Be), MoSCoW, User Stories |
+| **Data Validation** | SQL, Power Query, ETL Validation, Data Quality Dashboards |
 
-| Area | Technologies |
-|------|--------------|
-| **AI & Data** | Azure ML, LLMs, Python, PyTorch, NLP, Power BI, Databricks |
-| **Development** | JavaScript, Node.js, Python, SQL, HTML/CSS, Java, PHP |
-| **Cloud** | Microsoft Azure, AWS, Azure Data Factory, Azure Functions |
-| **Tools** | Jira, DevOps, Figma, SAP, Tableau, Oracle, VS Code |
+### 🤖 AI & Data Science
+| Category | Tools & Technologies |
+|----------|---------------------|
+| **Machine Learning & AI** | Azure ML, LLMs, NLP, PyTorch, Python, Cognitive Services |
+| **Data Analytics** | Power BI, Tableau, QlikView, Python (Pandas/NumPy), R |
+| **Data Engineering** | Azure Data Factory, Databricks, Apache Spark, Hadoop, Airflow |
 
+### 💻 Development
+| Category | Tools & Technologies |
+|----------|---------------------|
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React, jQuery |
+| **Backend** | Node.js, Python, Java, PHP, AWS Lambda |
+| **Databases** | SQL Server, MySQL, Oracle, MariaDB, Amazon Redshift |
+| **Version Control** | Git, GitHub, Azure DevOps |
 
-## 🎨 Portfolio Features
+### ☁️ Cloud Platforms
+| Platform | Services |
+|----------|----------|
+| **Microsoft Azure** | Azure ML, Data Factory, Functions, Cognitive Services, DevOps |
+| **AWS** | Lambda, Redshift, EC2, S3 |
+| **Other** | Docker, Kubernetes, Postman |
 
-- ✅ **6-in-1 page navigation** (Home, Education, Experience, Projects, Skills, Contact)
-- ✅ **Dark/Light mode toggle** for comfortable viewing
-- ✅ **Fully responsive** — looks great on any device
-- ✅ **Typed text animations** and smooth transitions
-- ✅ **Certificate showcase** with credential details
-- ✅ **Live social links** (LinkedIn & GitHub)
+### 🛠️ Tools & Frameworks
+| Category | Tools |
+|----------|-------|
+| **Project Management** | Jira, Confluence, MS Project, Trello, Kanban |
+| **Testing** | Selenium, TestNG, JUnit, Postman, LoadRunner |
+| **Design & Prototyping** | Figma, Adobe Photoshop, MS Visio |
+| **IDE & Notebooks** | VS Code, Eclipse, JupyterLab, Spyder, RStudio |
+
 
 ## 🔗 Quick Links
 
