@@ -8,7 +8,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sthembiso-mkansi)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/SthembisoMkansi)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366f1?style=for-the-badge&logo=google-chrome)](https://sthembisomkansi.github.io/sthembiso-portfolio)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366f1?style=for-the-badge&logo=google-chrome)](https://sthembisomkansi.github.io/SM-Portfolio.io/)
   
   <br>
   
